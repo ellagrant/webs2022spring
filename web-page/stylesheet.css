@@ -1,0 +1,21 @@
+
+h1, body {
+    
+    background-color:peachpuff;
+    font-family:cursive;
+    
+}
+
+h1 {
+    font-size: 60px;
+    text-align:center;
+    color:palevioletred;
+    background-color:peachpuff;
+}
+body {
+    font-size:40px;
+    text-align:left;
+    color:antiquewhite;
+    background-color:rosybrown;
+
+}
