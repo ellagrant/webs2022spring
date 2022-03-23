@@ -1,3 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header-container {
+    background-color:peachpuff;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+    height: 200px;
+    display: flex;
+  }
+
+  
+  
+
 .menu {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:palevioletred;
@@ -21,6 +41,23 @@ h1 {
     background-color:peachpuff;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
+a:link {
+    color:palevioletred;
+    text-decoration: none;
+  }
+  a:visited {
+    color:palevioletred;
+    text-decoration: none;
+  }
+  a:hover {
+    color:palevioletred;
+    text-decoration: underline;
+  }
+  a:active {
+    color:darkred;
+    text-decoration: none;
+  }
 
 p, li {
     font-size:24;
