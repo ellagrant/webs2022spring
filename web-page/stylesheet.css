@@ -12,8 +12,15 @@
   
   .header {
     height: 200px;
+    width:900px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightskyblue;
   }
+
+
+
 
 .menu {
     font-family: Georgia, 'Times New Roman', Times, serif;
