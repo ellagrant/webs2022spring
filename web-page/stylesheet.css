@@ -5,7 +5,7 @@
   }
 
 .header-container {
-    background-color:peachpuff;
+    background-color:lightsalmon;
     display: flex;
     justify-content: center;
   }
@@ -15,15 +15,13 @@
     display: flex;
   }
 
-  
-  
-
 .menu {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:palevioletred;
     background-color: peachpuff;
     font-size: 40;
     text-align: center;
+    
 }
 
 .center {
@@ -31,6 +29,10 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.photo-grid-item-2 {
+  height:200px;
 }
 
 
@@ -43,15 +45,15 @@ h1 {
 }
 
 a:link {
-    color:palevioletred;
+    color:darkred;
     text-decoration: none;
   }
   a:visited {
-    color:palevioletred;
+    color:darkred;
     text-decoration: none;
   }
   a:hover {
-    color:palevioletred;
+    color:darkred;
     text-decoration: underline;
   }
   a:active {
@@ -67,9 +69,10 @@ p, li {
 }
 body {
     font-size:40px;
-    text-align:left;
     color:antiquewhite;
     background-color:rosybrown;
 
 }
+
+
 
