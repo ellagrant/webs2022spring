@@ -99,6 +99,61 @@ display: flex;
 
 }
 
+.body-container {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  background-color:#8CBCCB;
+}
+
+.body-container2 {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  background-color:#90AA59;
+}
+
+.body-container3 {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  background-color:#8273B1;
+}
+
+.body-container4 {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  background-color:#8273B1;
+}
+
+.body-container5 {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  background-color:#8273B1;
+}
+
 
 h1 {
     font-size:60px;
@@ -106,6 +161,8 @@ h1 {
     color:floralwhite;
     background-color:darksalmon;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 h2{
@@ -113,7 +170,6 @@ h2{
   text-align:left;
   margin-left: 30px;
   margin-right: 30px;
-  margin-top: 30px;
   margin-bottom: 30px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color:floralwhite;
@@ -124,7 +180,6 @@ h3, h4 {
   text-align:left;
   margin-left: 30px;
   margin-right: 30px;
-  margin-top: 30px;
   margin-bottom: 30px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color:floralwhite;
@@ -151,13 +206,25 @@ a:link {
 p, li {
     font-size:24;
     text-align:left;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:floralwhite;
 }
+
+p2 {
+  font-size:24;
+  text-align:left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  padding-top: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:floralwhite;
+  background-color: darksalmon;
+}
+
 body {
     font-size:30px;
     color:floralwhite;
