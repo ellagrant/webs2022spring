@@ -16,3 +16,5 @@ Photos and Videos from Coffeehouse- all taken by Aniqah Rafi and posted to our p
 Images of student officers- created by Julia Kebuladze, 2021, using Canva (permission: all images were posted to our public Instagram, and I asked Julia
 directly if I could use it).
 
+Image of Calendar- created by me, Ella Grant, using a Canva template.
+
