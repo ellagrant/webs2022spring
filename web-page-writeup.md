@@ -24,3 +24,5 @@ Otherwise, I'm confident in my project going forward. I still have to figure out
 I can figure out as I go and try different things. 
 
 To anyone peer reviewing my project- all my files are in the folder called "web-page." I couldn't figure out how to download a .zip to my repository. All the pages open correctly on my computer, but if you're having trouble just let me know in the comments and I can try sending the files. 
+
+Here is the final (for now) version of Cherry Bomb Lit Mag's unofficial official website:  . Enjoy!
