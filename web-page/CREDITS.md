@@ -1,4 +1,4 @@
-Cherry Bomb Logo- Pamela Smith, 2021 (permission: designed for public use, also I asked her directly if I could use it and I recolored it and cut out 
+Cherry Bomb Logo- Pamela Smith, 2021 (permission: designed for public use, also I asked Pam directly if I could use it and I recolored it and cut out 
 some of the background for my web page).
 
 Six images in the grid on the index page- all taken and edited by me, Ella Grant
@@ -12,4 +12,7 @@ Art Submissions- "Matters of the Heart" by Lucy Calotta, "Underpassed" by Chelse
 Matthew Nzasi, "Evening of Dunes" by Julia Kebuldaze, Untitled by Hannah Kaplan (permission: same as above)
 
 Photos and Videos from Coffeehouse- all taken by Aniqah Rafi and posted to our public Instagram. Performers photographed/recorded from top left to bottom right: Elias Khouri, Ella Grant, Julia Kebuladze, Ben Reese, Maria Chaer
+
+Images of student officers- created by Julia Kebuladze, 2021, using Canva (permission: all images were posted to our public Instagram, and I asked Julia
+directly if I could use it).
 
