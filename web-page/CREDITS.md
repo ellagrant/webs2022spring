@@ -11,3 +11,5 @@ to their public use)
 Art Submissions- "Matters of the Heart" by Lucy Calotta, "Underpassed" by Chelsea Pappa, "Keith Haring Facsimile" by Pablo Peltier, Untitled by 
 Matthew Nzasi, "Evening of Dunes" by Julia Kebuldaze, Untitled by Hannah Kaplan (permission: same as above)
 
+Photos and Videos from Coffeehouse- all taken by Aniqah Rafi and posted to our public Instagram. Performers photographed/recorded from top left to bottom right: Elias Khouri, Ella Grant, Julia Kebuladze, Ben Reese, Maria Chaer
+
